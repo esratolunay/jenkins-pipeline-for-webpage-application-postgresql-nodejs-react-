@@ -1,5 +1,5 @@
 variable "mykey" {
-  default = "clarus"
+  default = "usa_key"
 }
 
 variable "instancetype" {
@@ -13,5 +13,5 @@ variable "jenkins-sg" {
 }
 
 variable "user" {
-  default = "clarusway"
+  default = "esra"
 }
